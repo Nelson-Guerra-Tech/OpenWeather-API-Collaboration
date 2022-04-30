@@ -34,3 +34,11 @@ body {
 .img-container img {
   width: 100%;
 }
+
+#theweather {
+  overflow-wrap: anywhere;
+  background-color: lightgreen;
+  width: 95%;
+  margin: auto;
+  margin-bottom: 10px;
+}
